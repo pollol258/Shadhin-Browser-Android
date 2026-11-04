@@ -1,4 +1,5 @@
 <div align="center">
+<<<<<<< HEAD
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
@@ -20,3 +21,15 @@ View your app in AI Studio: https://ai.studio/apps/34747559-6107-4a9e-94b8-a01da
 5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
 6. Run the app on an emulator or physical device
 7. If you have already published your app in AI Studio, please [request upload key reset](https://support.google.com/googleplay/android-developer/answer/9842756#zippy=%2Crequest-an-upload-key-reset) in Google Play Console.
+=======
+
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+  <h1>Built with AI Studio</h2>
+
+  <p>The fastest path from prompt to production with Gemini.</p>
+
+  <a href="https://aistudio.google.com/apps">Start building</a>
+
+</div>
+>>>>>>> 301caebe1ebd35baac06b425109b1053ec7733f0
