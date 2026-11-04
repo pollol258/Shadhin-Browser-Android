@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background">#FF2B1D17</color>
+    <color name="splash_background_dark">#FF18100C</color>
+    <color name="brand_cocoa">#FF2B1D17</color>
+    <color name="brand_terracotta">#FF8A5A44</color>
+    <color name="brand_orange">#FFF28C4E</color>
+    <color name="brand_cream">#FFFFF4EE</color>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Shadhin Browser",
+  "description": "A lightweight, privacy-hardened Android web browser with floating capsule ergonomics, DNS-over-HTTPS, and cosmetic ad-blocking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

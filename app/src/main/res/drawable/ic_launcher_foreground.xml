@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Central 66% Safe Zone: All elements bounded within x:[22,86], y:[22,86] -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+
+        <!-- Outer Orbital Ring with gap at top-right for satellite -->
+        <path
+            android:strokeColor="#FFFFF4EE"
+            android:strokeWidth="2.4"
+            android:strokeLineCap="round"
+            android:pathData="M 37,70 C 29,62 27.5,47 34,36 C 40.5,25 54,22 65,27.5" />
+
+        <path
+            android:strokeColor="#FFFFF4EE"
+            android:strokeWidth="2.4"
+            android:strokeLineCap="round"
+            android:pathData="M 74.5,39 C 79.5,48 78,61 69,69" />
+
+        <!-- Top-Right Orbital Satellite Node (Orange #F28C4E) -->
+        <path
+            android:fillColor="#FFF28C4E"
+            android:pathData="M 70.5,33.5 m -3.2,0 a 3.2,3.2 0 1,0 6.4,0 a 3.2,3.2 0 1,0 -6.4,0" />
+
+        <!-- Bottom Pill Capsule Stand -->
+        <path
+            android:fillColor="#33FFF4EE"
+            android:strokeColor="#FFFFF4EE"
+            android:strokeWidth="1.8"
+            android:pathData="M 43,72.5 L 63,72.5 A 4.5,4.5 0 0,1 67.5,77 L 67.5,77 A 4.5,4.5 0 0,1 63,81.5 L 43,81.5 A 4.5,4.5 0 0,1 38.5,77 L 38.5,77 A 4.5,4.5 0 0,1 43,72.5 Z" />
+
+        <!-- Capsule Right Dot / Shield Indicator (Orange #F28C4E) -->
+        <path
+            android:fillColor="#FFF28C4E"
+            android:pathData="M 62,77 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+
+        <!-- Rear Wing (Dove) -->
+        <path
+            android:fillColor="#FFFFF4EE"
+            android:pathData="M 48.5,42.5 C 46,38 45.5,35 48.5,33 C 50.5,31.5 53,34 54.5,38.5 C 55.5,41.5 55,44 54,45 Z" />
+
+        <!-- Main Soaring Bird Body & Front Wing (Cream #FFF4EE) -->
+        <path
+            android:fillColor="#FFFFF4EE"
+            android:pathData="M 62.5,43.5 C 61,42 59.5,42.5 57.5,44 C 54,40 48.5,33 42,32 C 40,31.8 39.5,33 41.5,35.5 C 44.5,39 46.5,43 47.5,46.5 C 45,47.5 41,51.5 35,53.5 C 33.5,54 34.5,55 36.5,55.5 C 41,56.5 45.5,55.5 48.5,53.5 C 50.5,56 54,58 58.5,56 C 62.5,54.5 64,50.5 64,48 C 65.5,47.5 67,47 68.5,46.5 C 69,46.3 68.5,45.5 67,45.2 C 65.5,45 64.2,44.5 62.5,43.5 Z" />
+    </group>
+</vector>
